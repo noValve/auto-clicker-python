@@ -35,7 +35,7 @@ click_delay = 0.05 # delay between each click (in seconds)
   
 ## Author
 
-* *noValve* - [noValve](https://github.com/noValve).
+* noValve - *[noValve](https://github.com/noValve)*.
 
 ## License
 
