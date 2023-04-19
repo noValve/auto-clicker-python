@@ -2,18 +2,17 @@
 Auto clicker script useful for automatization.
 
 ## Installation
-
 Clone the [github](https://github.com/noValve/auto-clicker-python) repository.
 
 ```bash
 git clone git@github.com:noValve/auto_clicker-python.git
 ```
 
-## Usage
+## Usage```bash
+# Place yourself inside the project folder
+cd auto-clicker-python
 
-Open a terminal and place yourself inside the folder. Then, run the script.
-
-```bash
+# Run the script
 python3 auto_clicker.py
 ```
 
@@ -32,11 +31,7 @@ pause_key = Key.f2
 exit_key = Key.f3
 click_delay = 0.05 # delay between each click (in seconds)
 ```  
-  
-## Author
-
-* noValve - *[noValve](https://github.com/noValve)*.
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+⚖️ [MIT](https://choosealicense.com/licenses/mit/)
