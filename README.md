@@ -1,4 +1,4 @@
-# Auto Clicker Python
+# 🖱️ Auto Clicker Python
 Auto clicker script useful for automatization.
 
 ## Installation
