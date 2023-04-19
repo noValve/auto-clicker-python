@@ -8,7 +8,8 @@ Clone the [github](https://github.com/noValve/auto-clicker-python) repository.
 git clone git@github.com:noValve/auto_clicker-python.git
 ```
 
-## Usage```bash
+## Usage
+```bash
 # Place yourself inside the project folder
 cd auto-clicker-python
 
